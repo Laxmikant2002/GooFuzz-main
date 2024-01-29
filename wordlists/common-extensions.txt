@@ -1,0 +1,16 @@
+pdf
+sql
+aspx
+php
+txt
+jsp
+cfm
+cfg
+zip
+gz
+tar
+doc
+docx
+xls
+xlsx
+conf
